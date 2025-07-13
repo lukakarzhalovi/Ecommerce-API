@@ -1,0 +1,22 @@
+
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+## Build artifacts
+bin/
+obj/
+
+## User‑specific files
+.vscode/
+*.user
+*.suo
+
+## Rider, VS Code, etc.  (trim what you don’t use)
+.idea/
+*.sln.cache
+
+## Logs
+*.log
+
+## Other
+.DS_Store
